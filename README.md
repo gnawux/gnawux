@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Xu Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnawux)](http://github.com/gnawux/)
+
+Welcome to my GitHub channel
+
+- 🔭 I’m currently working on the CONTAINER INFRA of @antgroup and [OPEN SOURCE affairs](https://opensource.antgroup.com/) of it.
+  - 📦 I was one of the creators of [Kata Containers](https://github.com/kata-containers/kata-containers);
+  - 🗺️ My OSPO team is working on an [Open Source LLM Landscape](https://github.com/antgroup/llm-oss-landscape).
+- 🌱 I’m currently learning Latin Language in my spare time.
+- 🏃➕🚴 I keep doing some excercise every week.
+- 📫 How to reach me: via email, or [@gnawux on X](https://x.com/gnawux).
