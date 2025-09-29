@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Xu Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnawux)](http://github.com/gnawux/)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gnawux" />
 
 Welcome to my GitHub channel
 
